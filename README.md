@@ -4,7 +4,7 @@ STORES ブランドアセットのファイルを管理しているリポジト�
 
 ## Web Site
 
-[STORES BRAND GUIDE](https://stores-brand.guide)
+[STORES BRAND GUIDE](https://brand.st.inc)
 
 ## Release（更新履歴）
 
