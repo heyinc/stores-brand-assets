@@ -1,0 +1,130 @@
+
+/akita-bank /campaign/akita-bank 301!
+/seibu-shinkin /campaign/seibu-shinkin 301!
+
+/terminal /service 301!
+/terminal/supported_device https://support.coiney.com/hc/ja/articles/115005847587 301!
+/terminal/supported_device.html https://support.coiney.com/hc/ja/articles/115005847587 301!
+/supported https://support.coiney.com/hc/ja/articles/115005847587 301!
+/coineykit /sdk 301!
+/wechatpay /service 301!
+/appointment https://02fafc57.form.kintoneapp.com/public/0abc80519ac57a4067a7d060b566987379d03ca8b0878727921c91c8da1d2004 302!
+
+/corp/partner /connect 301!
+/corp/action/ /action 301!
+/corp/action/* /action/:splat 301!
+/corp https://st.inc 301!
+/corp/* https://st.inc 301!
+
+/contact https://inquiry.stores.jp/hc/ja/requests/new?ticket_form_id=360001096012 301!
+https://coiney.com/contact https://inquiry.stores.jp/hc/ja/requests/new?ticket_form_id=360001096012 301!
+
+/resources/docs /docs 301!
+/resources/docs/docs_download /docs/complete 301!
+
+/download/docs-service https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/STORES_payments_guide.pdf 301!
+
+/download/docs-service-largestore https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/sales/STORES_payments_service_largestore.pdf 301!
+
+/download/site-sticker https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/site_sticker/STORES_payments_site_sticker.zip 301!
+
+/download/poster-card-vm https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_card_vm.pdf 301!
+/download/poster-card-full https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_card_full.pdf 301!
+/download/poster-em https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_em.pdf 301!
+/download/poster-card-em https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_card_em.pdf 301!
+/download/poster-wcp https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_wcp.pdf 301!
+
+/download/poster-invoice https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_invoice_cs.pdf 301!
+/download/poster-wcp-for-store-01 https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_wcp_for_store_01.pdf 301!
+/download/poster-wcp-for-store-02 https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/poster_a4/STORES_payments_poster_wcp_for_store_02.pdf 301!
+
+/manual https://help.coiney.com/start 301!
+
+/download/caution-payment-device-sticker https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/support/STORES_payments_caution_payment_device_sticker_web.pdf 301!
+/download/caution-metal-card https://storesjp-user-documents.s3-ap-northeast-1.amazonaws.com/payments/support/STORES_payments_caution_metal_card.pdf 301!
+
+/appdl/coiney /appdl 301!
+
+/st / 301!
+/st/ / 301!
+
+https://coiney.com/guide/ https://officialmag.stores.jp/archive/category/%E3%83%AC%E3%82%B8%E3%83%BB%E6%B1%BA%E6%B8%88%E3%81%AE%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6 301!
+https://coiney.com/guide/* https://officialmag.stores.jp/entry/:splat 301!
+
+/voice https://officialmag.stores.jp/archive/category/STORES%20%E6%B1%BA%E6%B8%88%20%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B 301!
+/voice/ https://officialmag.stores.jp/archive/category/STORES%20%E6%B1%BA%E6%B8%88%20%E6%B4%BB%E7%94%A8%E4%BA%8B%E4%BE%8B 301!
+/voice/* https://officialmag.stores.jp/entry/interview-payments-:splat 301!
+
+/action https://stores.fun/payments 301!
+/action/ https://stores.fun/payments 301!
+/action/* https://stores.fun/payments 301!
+
+/campaign https://stores.fun/payments 301!
+/campaign/ https://stores.fun/payments 301!
+/campaign/* https://stores.fun/payments 301!
+
+/legal/privacy https://id.stores.jp/privacy_policy 301!
+/legal/privacy/ https://id.stores.jp/privacy_policy 301!
+/legal/privacy/index.html https://id.stores.jp/privacy_policy 301!
+
+/ https://stores.fun/payments 301!
+/index.html https://stores.fun/payments 301!
+https://coiney.com/ https://stores.fun/payments 301!
+
+/service https://stores.fun/payments/functions 301!
+/service/ https://stores.fun/payments/functions 301!
+/service/index.html https://stores.fun/payments/functions 301!
+/pricing https://stores.fun/payments/pricing 301!
+/pricing/ https://stores.fun/payments/pricing 301!
+/pricing/index.html https://stores.fun/payments/pricing 301!
+/started https://stores.fun/payments/started 301!
+/started/ https://stores.fun/payments/started 301!
+/started/index.html https://stores.fun/payments/started 301!
+/payge https://stores.fun/payments/functions/online 301!
+/payge/ https://stores.fun/payments/functions/online 301!
+/payge/index.html https://stores.fun/payments/functions/online 301!
+/payge/about https://stores.fun/payments/functions/online 301!
+/payge/about/ https://stores.fun/payments/functions/online 301!
+/payge/about/index.html https://stores.fun/payments/functions/online 301!
+
+/sdk https://stores.fun/development/payments-sdk-api 301!
+/sdk/ https://stores.fun/development/payments-sdk-api 301!
+/sdk/index.html https://stores.fun/development/payments-sdk-api 301!
+/connect https://stores.fun/payments/functions 301!
+/connect/ https://stores.fun/payments/functions 301!
+/connect/index.html https://stores.fun/payments/functions 301!
+
+/docs https://02fafc57.form.kintoneapp.com/public/101d6d64f253a2febf6e671b5e93500b1151beb8a6c2a4482906acff4e38845b 301!
+/docs/ https://02fafc57.form.kintoneapp.com/public/101d6d64f253a2febf6e671b5e93500b1151beb8a6c2a4482906acff4e38845b 301!
+/docs/complete https://stores.fun/payments 301!
+/docs/complete/ https://stores.fun/payments 301!
+/docs/complete/index.html https://stores.fun/payments 301!
+
+/legal https://stores.fun/legal 301!
+/legal/ https://stores.fun/legal 301!
+/legal/index.html https://stores.fun/legal 301!
+/legal/terms https://stores.fun/legal/payments-terms 301!
+/legal/terms/ https://stores.fun/legal/payments-terms 301!
+/legal/terms/index.html https://stores.fun/legal/payments-terms 301!
+/native/legal/tos https://stores.fun/legal/payments-app-terms 301!
+/native/legal/tos/ https://stores.fun/legal/payments-app-terms 301!
+/native/legal/tos/index.html https://stores.fun/legal/payments-app-terms 301!
+/legal/id https://stores.fun/legal/payments-id 301!
+/legal/id/ https://stores.fun/legal/payments-id 301!
+/legal/id/index.html https://stores.fun/legal/payments-id 301!
+/legal/prohibited https://stores.fun/legal/payments-prohibited 301!
+/legal/prohibited/ https://stores.fun/legal/payments-prohibited 301!
+/legal/prohibited/index.html https://stores.fun/legal/payments-prohibited 301!
+/legal/sdk https://stores.fun/legal/payments-sdk 301!
+/legal/sdk/ https://stores.fun/legal/payments-sdk 301!
+/legal/sdk/index.html https://stores.fun/legal/payments-sdk 301!
+/legal/terminal https://stores.fun/legal/payments-terminal 301!
+/legal/terminal/ https://stores.fun/legal/payments-terminal 301!
+/legal/terminal/index.html https://stores.fun/legal/payments-terminal 301!
+/legal/trademark https://stores.fun/legal/trademarks 301!
+/legal/trademark/ https://stores.fun/legal/trademarks 301!
+/legal/trademark/index.html https://stores.fun/legal/trademarks 301!
+
+/qrtest https://stores.fun/404 301!
+/qrtest/ https://stores.fun/404 301!
+/qrtest/index.html https://stores.fun/404 301!
